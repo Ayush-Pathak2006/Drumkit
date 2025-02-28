@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Drum Set - Interactive Web App
 
 This is a simple **Drum Set Web App** created using **HTML, CSS, and JavaScript**. It allows users to play drum sounds using their **keyboard keys** or by **clicking/touching** the drum pads.
@@ -39,5 +38,4 @@ For any questions or suggestions, reach out at **ayushpathak13022006@gmail.com**
 **⭐ Don't forget to star the repository if you like it!**
 
 =======
-"# Drumkit" 
->>>>>>> f54ae9e2f04b6528f44a6f92ee3763dc77c67cff
+
